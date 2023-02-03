@@ -1,5 +1,7 @@
 # Projeto de Introdução Web - JavaScript
 
+sore-card.surge.sh
+
 ## Enunciado
 
 Vamos começar nossa jornada no desenvolvimento web criando um sistema de escola de programação, porque aqui gostamos de metalinguagem!
